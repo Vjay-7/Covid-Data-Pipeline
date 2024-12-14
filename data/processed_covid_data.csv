@@ -1,0 +1,232 @@
+Country,Total_Cases,New_Cases,Total_Deaths,New_Deaths,Total_Recovered,Active_Cases,Critical_Cases,Continent
+Afghanistan,234174,0,7996,0,211080,15098,0,Asia
+Albania,334863,0,3605,0,330233,1025,0,Europe
+Algeria,272010,0,6881,0,183061,82068,0,Africa
+Andorra,48015,0,165,0,0,47850,0,Europe
+Angola,107327,0,1937,0,103419,1971,0,Africa
+Anguilla,3904,0,12,0,0,3892,0,North America
+Antigua and Barbuda,9106,0,146,0,8954,6,0,North America
+Argentina,10128845,0,130841,0,9997258,746,0,South America
+Armenia,451831,0,8777,0,435162,7892,0,Asia
+Aruba,44224,0,292,0,42438,1494,2,North America
+Australia,11853144,0,24414,0,11820014,8716,3,Australia-Oceania
+Austria,6081287,0,22542,0,6054934,3811,0,Europe
+Azerbaijan,835234,0,10400,0,824089,745,0,Asia
+Bahamas,38084,0,844,0,36366,874,1,North America
+Bahrain,729549,0,1574,0,727915,60,0,Asia
+Bangladesh,2049377,0,29493,0,0,2019884,0,Asia
+Barbados,110578,0,648,0,108647,1283,0,North America
+Belarus,994037,0,7118,0,985592,1327,0,Europe
+Belgium,4861695,0,34376,0,4826798,521,0,Europe
+Belize,71409,0,688,0,0,70721,0,North America
+Benin,28036,0,163,0,27847,26,0,Africa
+Bermuda,18860,0,165,0,18685,10,0,North America
+Bhutan,62697,0,21,0,61564,1112,0,Asia
+Bolivia,1212131,0,22407,0,1177145,12579,220,South America
+Bosnia,403615,0,16388,0,379084,8143,0,Europe
+Botswana,330638,0,2801,0,327049,788,1,Africa
+Brazil,38743918,0,711380,0,36249161,1783377,0,South America
+British Virgin Islands,7392,0,64,0,0,7328,0,North America
+Brunei,343719,0,225,0,243601,99893,3,Asia
+Bulgaria,1339851,0,38748,0,1292944,8159,22,Europe
+Burkina Faso,22114,0,400,0,21596,118,0,Africa
+Burundi,54721,0,38,0,53569,1114,0,Africa
+Cabo Verde,64477,0,417,0,63755,305,23,Africa
+Cambodia,139103,0,3056,0,136044,3,0,Asia
+Cameroon,125379,0,1974,0,123280,125,0,Africa
+Canada,4946090,0,59034,0,4881312,5744,99,North America
+Caribbean Netherlands,11682,0,38,0,10476,1168,0,North America
+Cayman Islands,31472,0,37,0,8553,22882,1,North America
+Central African Republic,15440,0,113,0,15200,127,2,Africa
+Chad,7701,0,194,0,4874,2633,0,Africa
+Channel Islands,101717,0,228,0,101321,168,0,Europe
+Chile,5384853,0,64497,0,5252450,67906,7,South America
+China,503302,0,5272,0,379053,118977,0,Asia
+Colombia,6400173,0,143200,0,6212152,44821,342,South America
+Comoros,9109,0,161,0,8939,9,0,Africa
+Congo,25375,0,386,0,24006,983,0,Africa
+Cook Islands,7203,0,2,0,7150,51,0,Australia-Oceania
+Costa Rica,1238883,0,9428,0,0,1229455,0,North America
+Croatia,1309728,0,18687,0,1258432,32609,0,Europe
+Cuba,1115251,0,8530,0,1106660,61,0,North America
+Curaçao,45986,0,295,0,44720,971,3,North America
+Cyprus,681110,0,1365,0,679745,0,0,Asia
+Czechia,4759041,0,43517,0,4715206,318,2,Europe
+Côte d'Ivoire,88384,0,835,0,87497,52,0,Africa
+DRC,99338,0,1468,0,84489,13381,0,Africa
+Denmark,3183756,0,8814,0,3174942,0,0,Europe
+Diamond Princess,712,0,13,0,699,0,0,
+Djibouti,15690,0,189,0,15427,74,0,Africa
+Dominica,16038,0,74,0,15964,0,0,North America
+Dominican Republic,675890,0,4384,0,671316,190,4,North America
+Ecuador,1070188,0,36043,0,1034145,0,0,South America
+Egypt,516023,0,24613,0,442182,49228,122,Africa
+El Salvador,201855,0,4230,0,179410,18215,0,North America
+Equatorial Guinea,17229,0,183,0,16907,139,5,Africa
+Eritrea,10189,0,103,0,10086,0,0,Africa
+Estonia,628070,0,3001,0,0,625069,0,Europe
+Ethiopia,501157,0,7574,0,488171,5412,0,Africa
+Falkland Islands (Malvinas),1930,0,0,0,1930,0,0,South America
+Faroe Islands,34658,0,28,0,0,34630,0,Europe
+Fiji,69117,0,885,0,67226,1006,0,Australia-Oceania
+Finland,1516117,0,11958,0,1503989,170,0,Europe
+France,40138560,0,167642,0,39970918,0,0,Europe
+French Guiana,98041,0,420,0,11254,86367,6,South America
+French Polynesia,79254,0,650,0,0,78604,0,Australia-Oceania
+Gabon,49051,0,307,0,48674,70,0,Africa
+Gambia,12626,0,372,0,12189,65,0,Africa
+Georgia,1861665,0,17132,0,0,1844533,0,Asia
+Germany,38828995,0,183027,0,38240600,405368,0,Europe
+Ghana,171889,0,1462,0,170425,2,0,Africa
+Gibraltar,20550,0,113,0,0,20437,0,Europe
+Greece,6101379,0,37869,0,0,6063510,0,Europe
+Greenland,11971,0,21,0,2761,9189,4,North America
+Grenada,19693,0,238,0,19358,97,4,North America
+Guadeloupe,203235,0,1021,0,0,202214,0,North America
+Guatemala,1291293,0,20289,0,1269891,1113,5,North America
+Guinea,38572,0,468,0,37757,347,0,Africa
+Guinea-Bissau,9614,0,177,0,8929,508,6,Africa
+Guyana,74137,0,1300,0,72013,824,0,South America
+Haiti,34667,0,860,0,33734,73,0,North America
+Holy See (Vatican City State),29,0,0,0,29,0,0,Europe
+Honduras,474590,0,11165,0,0,463425,0,North America
+Hong Kong,2937609,0,14924,0,2916005,6680,0,Asia
+Hungary,2230232,0,49048,0,2152155,29029,0,Europe
+Iceland,209906,0,229,0,0,209677,0,Europe
+India,45035393,0,533570,0,0,44501823,0,Asia
+Indonesia,6829221,0,162063,0,6647104,20054,0,Asia
+Iran,7627186,0,146811,0,0,7480375,0,Asia
+Iraq,2465545,0,25375,0,2439497,673,0,Asia
+Ireland,1734582,0,9491,0,1724921,170,19,Europe
+Isle of Man,38008,0,116,0,0,37892,0,Europe
+Israel,4841772,0,12707,0,4798473,30592,0,Asia
+Italy,26723249,0,196487,0,26361218,165544,22,Europe
+Jamaica,156869,0,3756,0,0,153113,0,North America
+Japan,33803572,0,74694,0,0,33728878,0,Asia
+Jordan,1746997,0,14122,0,1731007,1868,59,Asia
+Kazakhstan,1411831,0,13848,0,1383020,14963,24,Asia
+Kenya,344130,0,5689,0,337309,1132,0,Africa
+Kiribati,5085,0,24,0,2703,2358,3,Australia-Oceania
+Kuwait,667158,0,2570,0,0,664588,0,Asia
+Kyrgyzstan,206897,0,2991,0,196406,7500,131,Asia
+Lao People's Democratic Republic,218970,0,758,0,0,218212,0,Asia
+Latvia,982505,0,6715,0,971406,4384,0,Europe
+Lebanon,1243838,0,10952,0,1087587,145299,74,Asia
+Lesotho,36138,0,723,0,25980,9435,0,Africa
+Liberia,8090,0,295,0,7783,12,2,Africa
+Libyan Arab Jamahiriya,507274,0,6437,0,500835,2,0,Africa
+Liechtenstein,21574,0,94,0,0,21480,0,Europe
+Lithuania,1397806,0,9897,0,1387478,431,0,Europe
+Luxembourg,391232,0,1232,0,0,390000,0,Europe
+MS Zaandam,9,0,2,0,7,0,0,
+Macao,27673,0,123,0,3487,24063,0,Asia
+Macedonia,350567,0,9976,0,337068,3523,0,Europe
+Madagascar,68486,0,1426,0,66862,198,0,Africa
+Malawi,89535,0,2686,0,0,86849,0,Africa
+Malaysia,5278406,0,37348,0,5233268,7790,11,Asia
+Maldives,186694,0,316,0,163687,22691,25,Asia
+Mali,33164,0,743,0,32332,89,0,Africa
+Malta,121420,0,885,0,120149,386,0,Europe
+Marshall Islands,16138,0,17,0,16121,0,0,Australia-Oceania
+Martinique,230354,0,1102,0,0,229252,0,North America
+Mauritania,63848,0,997,0,62471,380,0,Africa
+Mauritius,43025,0,1051,0,41278,696,0,Africa
+Mayotte,42027,0,188,0,0,41839,0,Africa
+Mexico,7702809,0,334958,0,6899865,467986,0,North America
+Micronesia,26547,0,65,0,0,26482,0,Australia-Oceania
+Moldova,635145,0,12218,0,0,622927,0,Europe
+Monaco,17181,0,67,0,0,17114,0,Europe
+Mongolia,1011496,0,2284,0,1009212,0,0,Asia
+Montenegro,296542,0,2846,0,291794,1902,0,Europe
+Montserrat,1403,0,8,0,1376,19,0,North America
+Morocco,1278992,0,16303,0,0,1262689,0,Africa
+Mozambique,233731,0,2250,0,228805,2676,11,Africa
+Myanmar,641873,0,19495,0,620159,2219,0,Asia
+N. Korea,4772813,0,74,0,4772739,0,0,Asia
+Namibia,172389,0,4106,0,167099,1184,0,Africa
+Nauru,5393,0,1,0,5347,45,0,Australia-Oceania
+Nepal,1003450,0,12031,0,991322,97,0,Asia
+Netherlands,8635786,0,22992,0,8612599,195,0,Europe
+New Caledonia,80064,0,314,0,0,79750,0,Australia-Oceania
+New Zealand,2621111,0,5697,0,2613791,1623,0,Australia-Oceania
+Nicaragua,18491,0,225,0,4225,14041,0,North America
+Niger,9931,0,312,0,8890,729,1,Africa
+Nigeria,267188,0,3155,0,259953,4080,11,Africa
+Niue,1059,0,0,0,1056,3,0,Australia-Oceania
+Norway,1509732,0,6638,0,1503094,0,0,Europe
+Oman,399449,0,4628,0,0,394821,0,Asia
+Pakistan,1581936,0,30664,0,1538689,12583,0,Asia
+Palau,6290,0,10,0,6276,4,0,Australia-Oceania
+Palestine,621008,0,5404,0,615445,159,0,Asia
+Panama,1059893,0,8727,0,1051102,64,16,North America
+Papua New Guinea,46864,0,670,0,46168,26,0,Australia-Oceania
+Paraguay,837602,0,20155,0,0,817447,0,South America
+Peru,4572667,0,222161,0,4350506,0,4,South America
+Philippines,4140383,0,66864,0,4067381,6138,0,Asia
+Poland,6661991,0,120598,0,0,6541393,0,Europe
+Portugal,5643062,0,28126,0,5614809,127,61,Europe
+Qatar,514524,0,690,0,513687,147,16,Asia
+Romania,3529735,0,68929,0,3460149,657,21,Europe
+Russia,24124215,0,402756,0,23545818,175641,0,Europe
+Rwanda,133518,0,1468,0,132039,11,0,Africa
+Réunion,494595,0,921,0,0,493674,0,Africa
+S. Korea,34571873,0,35934,0,34535939,0,0,Asia
+Saint Helena,2166,0,0,0,2,2164,0,Africa
+Saint Kitts and Nevis,6607,0,48,0,6559,0,0,North America
+Saint Lucia,30215,0,410,0,29805,0,0,North America
+Saint Martin,12324,0,63,0,0,12261,0,North America
+Saint Pierre Miquelon,3452,0,2,0,2449,1001,0,North America
+Saint Vincent and the Grenadines,9674,0,124,0,9493,57,0,North America
+Samoa,17006,0,31,0,1605,15370,0,Australia-Oceania
+San Marino,26185,0,128,0,26011,46,0,Europe
+Sao Tome and Principe,6778,0,80,0,6685,13,0,Africa
+Saudi Arabia,841469,0,9646,0,0,831823,0,Asia
+Senegal,89053,0,1971,0,87024,58,0,Africa
+Serbia,2615054,0,18057,0,2596608,389,0,Europe
+Seychelles,51220,0,172,0,51048,0,0,Africa
+Sierra Leone,7779,0,126,0,0,7653,0,Africa
+Singapore,3006155,0,2024,0,3004131,0,4,Asia
+Sint Maarten,11051,0,92,0,10905,54,0,North America
+Slovakia,1877605,0,21224,0,1856381,0,23,Europe
+Slovenia,1356546,0,7100,0,1349424,22,0,Europe
+Solomon Islands,25954,0,199,0,0,25755,0,Australia-Oceania
+Somalia,27334,0,1361,0,13182,12791,0,Africa
+South Africa,4076463,0,102595,0,3912506,61362,192,Africa
+South Sudan,18819,0,147,0,18115,557,1,Africa
+Spain,13914811,0,121760,0,13762417,30634,231,Europe
+Sri Lanka,672754,0,16897,0,655852,5,0,Asia
+St. Barth,5507,0,6,0,0,5501,0,North America
+Sudan,63993,0,5046,0,58947,0,0,Africa
+Suriname,82588,0,1408,0,0,81180,0,South America
+Swaziland,75191,0,1427,0,73116,648,0,Africa
+Sweden,2754129,0,27407,0,2726492,230,0,Europe
+Switzerland,4453053,0,14452,0,4438309,292,0,Europe
+Syrian Arab Republic,57743,0,3165,0,54578,0,0,Asia
+Taiwan,10241523,0,19005,0,10222518,0,0,Asia
+Tajikistan,17786,0,125,0,17264,397,0,Asia
+Tanzania,43223,0,846,0,0,42377,0,Africa
+Thailand,4770149,0,34586,0,4692636,42927,0,Asia
+Timor-Leste,23460,0,138,0,23102,220,0,Asia
+Togo,39572,0,290,0,39281,1,0,Africa
+Tokelau,80,0,0,0,0,80,0,Australia-Oceania
+Tonga,16950,0,13,0,15638,1299,0,Australia-Oceania
+Trinidad and Tobago,191496,0,4390,0,187078,28,0,North America
+Tunisia,1153361,0,29423,0,0,1123938,0,Africa
+Turkey,17232066,0,102174,0,0,17129892,0,Asia
+Turks and Caicos Islands,6752,0,40,0,6709,3,4,North America
+Tuvalu,2943,0,1,0,0,2942,0,Australia-Oceania
+UAE,1067030,0,2349,0,0,1064681,0,Asia
+UK,24910387,0,232112,0,24678275,0,0,Europe
+USA,111820082,0,1219487,0,109814428,786167,940,North America
+Uganda,172149,0,3632,0,100431,68086,0,Africa
+Ukraine,5557995,0,112418,0,5445577,0,0,Europe
+Uruguay,1041111,0,7664,0,1030944,2503,18,South America
+Uzbekistan,253662,0,1637,0,241486,10539,23,Asia
+Vanuatu,12019,0,14,0,11976,29,0,Australia-Oceania
+Venezuela,552695,0,5856,0,546537,302,31,South America
+Vietnam,11625195,0,43206,0,10640971,941018,0,Asia
+Wallis and Futuna,3550,0,8,0,438,3104,0,Australia-Oceania
+Western Sahara,10,0,1,0,9,0,0,Africa
+Yemen,11945,0,2159,0,9124,662,0,Asia
+Zambia,349304,0,4069,0,341316,3919,0,Africa
+Zimbabwe,266359,0,5740,0,258888,1731,12,Africa
